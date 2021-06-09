@@ -1,0 +1,14 @@
+C:\Users\ujipe\Google Drive\Cursos\C# - Entra21\Trabalho - Gustavo Henrique da Silva\bin\Debug\Trabalho - Gustavo Henrique da Silva.exe.config
+C:\Users\ujipe\Google Drive\Cursos\C# - Entra21\Trabalho - Gustavo Henrique da Silva\bin\Debug\Trabalho - Gustavo Henrique da Silva.exe
+C:\Users\ujipe\Google Drive\Cursos\C# - Entra21\Trabalho - Gustavo Henrique da Silva\bin\Debug\Trabalho - Gustavo Henrique da Silva.pdb
+C:\Users\ujipe\Google Drive\Cursos\C# - Entra21\Trabalho - Gustavo Henrique da Silva\obj\Debug\Trabalho - Gustavo Henrique da Silva.csproj.AssemblyReference.cache
+C:\Users\ujipe\Google Drive\Cursos\C# - Entra21\Trabalho - Gustavo Henrique da Silva\obj\Debug\Trabalho - Gustavo Henrique da Silva.csproj.CoreCompileInputs.cache
+C:\Users\ujipe\Google Drive\Cursos\C# - Entra21\Trabalho - Gustavo Henrique da Silva\obj\Debug\Trabalho - Gustavo Henrique da Silva.exe
+C:\Users\ujipe\Google Drive\Cursos\C# - Entra21\Trabalho - Gustavo Henrique da Silva\obj\Debug\Trabalho - Gustavo Henrique da Silva.pdb
+C:\Users\ujipe\Documents\Trabalho - Gustavo Henrique da Silva\bin\Debug\Trabalho - Gustavo Henrique da Silva.exe.config
+C:\Users\ujipe\Documents\Trabalho - Gustavo Henrique da Silva\bin\Debug\Trabalho - Gustavo Henrique da Silva.exe
+C:\Users\ujipe\Documents\Trabalho - Gustavo Henrique da Silva\bin\Debug\Trabalho - Gustavo Henrique da Silva.pdb
+C:\Users\ujipe\Documents\Trabalho - Gustavo Henrique da Silva\obj\Debug\Trabalho - Gustavo Henrique da Silva.csproj.AssemblyReference.cache
+C:\Users\ujipe\Documents\Trabalho - Gustavo Henrique da Silva\obj\Debug\Trabalho - Gustavo Henrique da Silva.csproj.CoreCompileInputs.cache
+C:\Users\ujipe\Documents\Trabalho - Gustavo Henrique da Silva\obj\Debug\Trabalho - Gustavo Henrique da Silva.exe
+C:\Users\ujipe\Documents\Trabalho - Gustavo Henrique da Silva\obj\Debug\Trabalho - Gustavo Henrique da Silva.pdb
